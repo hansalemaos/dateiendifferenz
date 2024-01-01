@@ -3,6 +3,7 @@
 ### Tested against Windows 10 / Python 3.11 / Anaconda 
 
 ### Wrapper for stringsext and some other stuff
+## pip install dateiendifferenz
 
 ## Overview:
 
