@@ -3,9 +3,11 @@
 ### Tested against Windows 10 / Python 3.11 / Anaconda 
 
 ### Wrapper for stringsext and some other stuff
-## pip install dateiendifferenz
 
 ## Overview:
+
+
+### pip install dateiendifferenz
 
 stringsext https://github.com/getreu/stringsext is a versatile library designed to facilitate text processing tasks, especially tailored for handling file parsing and encoding conversion. By leveraging this library, developers can effortlessly parse files, transform content into various encodings, and optimize text-based operations.
 
